@@ -16,3 +16,8 @@ Once the callParksApi function has been called the appropriate input values are 
 This data then calls for the appropriate results to be displayed
 
 DisplayResults function is then run with that given data, and the park names, description, and url can now be accessed using a for loop, to loop through each of the parks and display the amount of parks requested
+
+
+# Live Link
+
+ https://sultanak.github.io/National-State-Park/.
